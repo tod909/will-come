@@ -32,7 +32,7 @@ client.on('guildMemberAdd', async member => {
 
    if (!channel) return;
 
- let data = await canva.welcome(member, { gradiant: "darkness" })
+ let data = await canva.welcome(member, { gradiant: "pinkman" })
 
 //GRADIANTS NAME - coldsky, peakblue, pinkman, aqua, darkness, angel
 
